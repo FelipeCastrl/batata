@@ -1,5 +1,11 @@
 #include <iostream>
 
+// Era uma vez um pÃ© de moleque perdido
+// Vc Ã© muito gostoso diriam as garotas
+// e os garotos!
+// LeticiaFreitas
+
+
 struct Teste {
     int uga(){
         return caverna;
@@ -25,11 +31,9 @@ int main(){
         contador++;
     }
     return 0;
-}
-Felipe_Castrl//
+
+// Felipe_Castrl
 //eu fui no mercado comprar uma carne
-// quando eu cheguei la´eu não tinha dinheiro o suficiente
-//então a minha amiga pagou metade
+// quando eu cheguei laï¿½eu nï¿½o tinha dinheiro o suficiente
+//entï¿½o a minha amiga pagou metade
 //chegando em casa eu cozinhei a carne e perguntei...
-
-
