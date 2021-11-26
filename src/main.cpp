@@ -1,9 +1,8 @@
 #include <iostream>
-//LeticiaFreitas
+
 struct Teste {
     int uga(){
         return caverna;
-        //JaquelineChips
     }
 
     float pedra = 0;
@@ -11,11 +10,6 @@ struct Teste {
     int caverna = 0;
 }
 
-//Nayami Casagrande da Silva
-// Thiago Alves da Silva Evangelista
-// Marcos Teixeira :D
-// Felipe_Castrl
-//leticia_Castro
 
 int main(){
 
@@ -32,3 +26,10 @@ int main(){
     }
     return 0;
 }
+Felipe_Castrl//
+//eu fui no mercado comprar uma carne
+// quando eu cheguei la´eu não tinha dinheiro o suficiente
+//então a minha amiga pagou metade
+//chegando em casa eu cozinhei a carne e perguntei...
+
+
