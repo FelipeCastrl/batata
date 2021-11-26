@@ -1,5 +1,8 @@
 #include <iostream>
-//LeticiaFreitas
+// Era uma vez um pé de moleque perdido
+// Vc é muito gostoso diriam as garotas
+// e os garotos!
+// LeticiaFreitas
 struct Teste {
     int uga(){
         return caverna;
